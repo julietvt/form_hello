@@ -1,0 +1,14 @@
+input:focus{
+    border: 2px solid red;
+    box-sizing: border-box;
+}
+
+input:checked{color:blue;}
+
+/*
+{
+"username": "usernamevalue";
+"userpassword": "userpassvalue";
+"work": "stud";
+}
+*/
